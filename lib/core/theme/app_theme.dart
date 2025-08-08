@@ -99,8 +99,14 @@ class AppTheme {
           fontWeight: FontWeight.w600,
           color: Color(0xFF334155),
         ),
-        bodyLarge: TextStyle(fontSize: 16, color: Color(0xFF475569)),
-        bodyMedium: TextStyle(fontSize: 14, color: Color(0xFF64748B)),
+        bodyLarge: TextStyle(
+          fontSize: 16,
+          color: Color(0xFF475569),
+        ),
+        bodyMedium: TextStyle(
+          fontSize: 14,
+          color: Color(0xFF64748B),
+        ),
       ),
 
       // Progress Indicator Theme
